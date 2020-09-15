@@ -1,0 +1,15 @@
+FIX
+HelperPad verwijdert items			==	done
+Helper vindt niet de kortste route		==
+Godclass Level					==
+pop-ups verplaatsen naar een message balk	==
+Naamgeving engels en duidelijk			==
+
+EXTRA
+Nieuwe UI met eigen plaatjes			==
+Randomgenerated levels				==
+Randomgenerated levelgroote			==
+Kogel implementeren				==
+Fullscreen					==
+
+
